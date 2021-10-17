@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My2048</string>
+    <string name="startGame">开始游戏</string>
+    <string name="score_0">score: 0</string>
+    <string name="restart">restart</string>
+    <string name="undo">undo</string>
+</resources>

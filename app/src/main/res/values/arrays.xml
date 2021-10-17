@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="maple_color_set">
+        <item>@color/maple_1</item>
+        <item>@color/maple_2</item>
+        <item>@color/maple_3</item>
+        <item>@color/maple_4</item>
+        <item>@color/maple_5</item>
+        <item>@color/maple_6</item>
+        <item>@color/maple_7</item>
+        <item>@color/maple_8</item>
+        <item>@color/maple_9</item>
+        <item>@color/maple_10</item>
+        <item>@color/maple_11</item>
+    </integer-array>
+
+</resources>

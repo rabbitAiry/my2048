@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="maple_primary">#FF5252</color>
+    <color name="maple_primary_variant">#FF8A80</color>
+    <color name="maple_1">#FFF3E0</color>
+    <color name="maple_2">#FFE0B2</color>
+    <color name="maple_3">#FFCC80</color>
+    <color name="maple_4">#FFB74D</color>
+    <color name="maple_5">#FFA726</color>
+    <color name="maple_6">#FF9800</color>
+    <color name="maple_7">#FF7043</color>
+    <color name="maple_8">#FF5722</color>
+    <color name="maple_9">#F4511E</color>
+    <color name="maple_10">#E64A19</color>
+    <color name="maple_11">#D32F2F</color>
+
+
+</resources>
